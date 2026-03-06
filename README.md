@@ -9,18 +9,18 @@ The system accepts user-supplied observations including plant species, visible s
 
 **Below is the individual names, IDs and roles.**
 
- 1.Haruna Hakeem – Project Manager - 22046736
+1. Haruna Hakeem – Project Manager - 22046736
 
- 2.Esther Ahiable – Programmer - 22155267
+2. Esther Ahiable – Programmer - 22155267
 
 3. Jessica Obeng Afriyie – Programmer - 22051539
  
 4. Israel Opoku-Agyemang – Programmer - 22055310
- 
-5. Emmanuel Sarfo Attah-Nimoh – Knowledge Based Engineer - 22041547
- 
-6. Mubarack Jibriel- Knowledge Based Engineer - 22146249
- 
-7. Osman Umar Farouk - Knowledge Based Engineer -22245576
 
+5. Osman Umar Farouk - Programmer -22245576
+ 
+6. Emmanuel Sarfo Attah-Nimoh – Knowledge Based Engineer - 22041547
+ 
+7. Mubarack Jibriel- Knowledge Based Engineer - 22146249
+ 
 
