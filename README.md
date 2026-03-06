@@ -9,9 +9,9 @@ The system accepts user-supplied observations including plant species, visible s
 
 **Below is the individual names, IDs and roles.**
 
-1.Haruna Hakeem – Project Manager - 22046736
+ 1.Haruna Hakeem – Project Manager - 22046736
 
-2.Esther Ahiable – Programmer - 22155267
+ 2.Esther Ahiable – Programmer - 22155267
 
 3. Jessica Obeng Afriyie – Programmer - 22051539
  
