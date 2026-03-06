@@ -7,7 +7,7 @@ The system accepts user-supplied observations including plant species, visible s
 
 
 
-**Below is the individual IDs and roles.**
+**Below is the individual names, IDs and roles.**
 
 1.Haruna Hakeem – Project Manager - 22046736
 
